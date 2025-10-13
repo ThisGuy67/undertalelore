@@ -48,12 +48,14 @@ transform: scale(1.55)
   gap: 20px;                   
 }
 .sixsmall {
-    transform: scale(0.3)
+    transform: scale(0.9)
 }
 .imagerow {
-      display: flex;
-      display: block;               
+      display: flex;              
   justify-content: center;     
   align-items: center;         
-  gap: 9px;   
+  gap: 1px;   
+}
+.verysmall {
+    transform: scale(0.9)
 }
