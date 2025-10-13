@@ -62,3 +62,27 @@ transform: scale(1.55)
 .runningoutofadjectives {
 transform: scale(0.76)
 }
+.rowofplaces {
+display: flex;              
+  justify-content: left;     
+  align-items: left;         
+  gap: 1px;   
+}
+p.Ruins {
+    margin-left: 85px;
+}
+p.Snowdin {
+    margin-left: 175px;
+}
+p.Waterfall {
+    margin-left: 157px;
+}
+p.Hotland {
+    margin-left: 170px;
+}
+p.core {
+    margin-left: 200px;
+}
+p.HOME {
+    margin-left: 210px;
+}
