@@ -35,3 +35,25 @@ h5 sans1 {
 .badtime {
     transform: scale(0.3)
 }
+.smaller {
+    transform: scale(0.55)
+}
+.Bigger {
+transform: scale(1.55)
+}
+.image-row {
+  display: flex;               
+  justify-content: center;     
+  align-items: center;         
+  gap: 20px;                   
+}
+.sixsmall {
+    transform: scale(0.3)
+}
+.imagerow {
+      display: flex;
+      display: block;               
+  justify-content: center;     
+  align-items: center;         
+  gap: 9px;   
+}
