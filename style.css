@@ -1,3 +1,14 @@
+@font-face {
+  font-family: "8BitOperatorJVE";
+  src: url("fonts/8bitoperator_jve.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "8BitOperatorJVE", monospace;
+}
+
 p {
     margin-top: 20px;
     margin-bottom: 20px;
@@ -31,9 +42,6 @@ h5 {
 }
 h5 sans1 {
     margin-left: 200px;
-}
-.badtime {
-    transform: scale(0.3)
 }
 .smaller {
     transform: scale(0.55)
@@ -85,4 +93,65 @@ p.core {
 }
 p.HOME {
     margin-left: 210px;
+}
+.wowanotherrow {
+    display: flex;               
+  justify-content: left;     
+  align-items: left;         
+  gap: 20px; 
+}
+.makeitalilsmallermaybelike05orsum {
+    transform: scale(0.7)
+}
+.row {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    gap: 20px;
+}
+p.mtebott {
+    margin-left: 110px;
+}
+p.sixsouls {
+margin-left: 190px;
+}
+.rowofscientists {
+   display: flex;
+    justify-content: left;
+    align-items: left;
+    gap: 5px;   
+    transform: scale(0.5);
+    margin-left: 10px;
+}
+.ehimlazy {
+       display: flex;
+    justify-content: left;
+    align-items: left;
+    gap: 20px;   
+}
+.badtime {
+    transform: scale(1.1);
+}
+.wewe {
+     display: flex;
+    justify-content: left;
+    align-items: left;
+}
+.erer {
+    transform: scale(0.67)
+}
+p.best {
+    margin-left: 60px;
+}
+.finalihope {
+     display: flex;
+    justify-content: left;
+    align-items: left;
+    gap: 20px;   
+}
+.e{
+    transform: scale(1.1)
+}
+.end {
+    margin-left: 600px;
 }
